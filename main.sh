@@ -1,0 +1,3 @@
+cd Nebula
+
+npm start
